@@ -1,2 +1,4 @@
 # DemoCollection
-learning demos
+
+一些学习过程产物
+
